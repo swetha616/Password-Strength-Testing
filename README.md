@@ -51,7 +51,7 @@ This project evaluates the strength of different passwords using online password
 ---
 
 ## 📄 Report
-See the full report here → **[Task 6 Report](task6_password_strength_report.docx)**
+See the full report here → **[Task 6 Report](task6_password_strength_report.pdf)**
 
 ---
 
